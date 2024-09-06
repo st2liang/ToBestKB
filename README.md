@@ -24,6 +24,9 @@ views: 页面组件
 
 ## 2.Django
 ToBestKB下为django项目
+
 ToBestKB\DataBase保存数据库相关设置
+
 ToBestKB\ToBestKB\Controller为控制器相关设置
+
 ToBestKB\ToBestKB\Services为相应服务
